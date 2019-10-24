@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+#logopic{
+	border-width:thick;
+	border-style: solid;
+	border-color: #007e7e;
+	border-radius:5px;
+	width: 140px;
+	float: left;
+}
+li{ 
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 30px;
+	font-weight: 800;
+	color:whitesmoke;
+	line-height:50px;
+	padding-top: 50px;
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	list-style:none;
+	border-radius:5px;
+	float: left;
+} 
+#navigation{
+	background-color: #007e7e;
+	border-radius:5px;
+	height: 150px;
+}
+a:link {color: white} 
+a:visited {color: #BDDEDE} 
+a:hover {color: navajowhite}
+a:active {color: #999966} 
+a{
+	text-decoration:none;
+}
+
+#footer{
+     height: auto;
+	 font-style:normal;
+	 color: antiquewhite;
+	 border-radius: 5px;
+	 background-color: #007e7e;
+	 width: 800px;
+	 margin: auto;
+	 font-size:18px;
+}
+
+/*以上是导航和页脚*/
+
+#help_img{
+	text-align: center;
+}
+
+h1{
+	margin-left: 20px;
+	font-size: 50px;
+	font-weight: bolder;
+}
+
+h2{
+	font-size: 35px;
+	font-weight: bolder;
+	margin-left: 40px;
+}
+p{
+    font-size: 26px;
+    margin-left: 70px;
+    font-weight: 500;
+	
+}
+
+a.download:link {color:#007e7e} 
+a.download:visited {color: #007e7e} 
+a.download:hover {color:#999966 }
+a.download:active {color:#007e7e} 
